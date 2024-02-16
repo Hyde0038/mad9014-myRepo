@@ -101,3 +101,23 @@ main {
 .weather-card p i {
   margin-inline-end: 1rem;
 }
+
+.list-container{
+  display: inline-flex;
+  flex-direction: row;
+}
+
+img{
+  max-width: 30rem;
+  max-height: 30rem;
+}
+
+ul{
+  display: inline-flex;
+  flex-direction: column;
+  list-style-type: none;
+  line-height: 4rem;
+  padding-left: 3rem;
+}
+
+
