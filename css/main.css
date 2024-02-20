@@ -112,12 +112,16 @@ img{
   max-height: 30rem;
 }
 
-ul{
+dl{
   display: inline-flex;
   flex-direction: column;
   list-style-type: none;
-  line-height: 4rem;
+  line-height: 1.8rem;
   padding-left: 3rem;
+}
+
+dt{
+  font-weight: bold;
 }
 
 
